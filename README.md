@@ -1,8 +1,11 @@
 # SimpleBrickComputer
+
+Creative Commons CC-BY-NC-ND-4.0
+
 Volvo 900/700/200 onboard computer 
-Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 
 Simple project (arduino based) of onboard oled display that's fits in orginal Volvo 940 clusters, and show basic stats of yours car. 
+
 SBC is connected to Vehicle Speed Signal, and Injector Signal to compute all data. 
 
  Basic Features:
